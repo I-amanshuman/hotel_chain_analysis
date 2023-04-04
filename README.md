@@ -39,6 +39,9 @@ To get the RevPar(Revenue Per Available Room) change percentage week over week.
 To get the Realisation change percentage week over week.
 To get the DSRN(Daily Sellable Room Nights) change percentage week over week.
 
+For more info, visit:
+https://www.novypro.com/project/hotelchaindashboard
+
 ![image](https://user-images.githubusercontent.com/77953290/229857388-a45ea722-6779-4ae1-affb-c4a7f7e4d938.png)
 
-https://www.novypro.com/project/hotelchaindashboard
+
